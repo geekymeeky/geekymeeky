@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=geekymeeky&color=green)
 
-### My Stats
+<h2>My Stats</h2>
 
 ![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekymeeky&show_icons=true&theme=radical)
 &nbsp;![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geekymeeky&theme=dark&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)
