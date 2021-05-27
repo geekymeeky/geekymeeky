@@ -1,4 +1,4 @@
-### Hi there, I'm Srijan! 👋
+<h1 align="center">Hi 👋, I'm Srijan!</h1>
 
 <em>Computer Science and Engineering Sophomore</em> at <strong>Calcutta Institute of Engineering and Management</strong> (Location: Kolkata, West Bengal, India)
 
