@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Srijan!</h1>
 
-<em>Computer Science and Engineering Sophomore</em> at <strong>Calcutta Institute of Engineering and Management</strong> (Location: Kolkata, West Bengal, India)
+<em>junior year Computer Science and Engineering</em> at <strong>Calcutta Institute of Engineering and Management</strong> (Location: Kolkata, West Bengal, India)
 
 ![](https://komarev.com/ghpvc/?username=geekymeeky&color=green)
 
